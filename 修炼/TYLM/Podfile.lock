@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Cosmos (23.0.0)
+  - HandyJSON (5.0.2)
+  - IQKeyboardManagerSwift (6.5.9)
+  - Kingfisher (4.10.1)
+  - MBProgressHUD (1.2.0)
+  - MJRefresh (3.7.5)
+  - SDCycleScrollView (1.82):
+    - SDWebImage (>= 5.0.0)
+  - SDWebImage (5.12.5):
+    - SDWebImage/Core (= 5.12.5)
+  - SDWebImage/Core (5.12.5)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cosmos
+  - HandyJSON
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - MBProgressHUD
+  - MJRefresh
+  - SDCycleScrollView
+  - SnapKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - HandyJSON
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - MBProgressHUD
+    - MJRefresh
+    - SDCycleScrollView
+    - SDWebImage
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+  SDCycleScrollView: a0d74c3384caa72bdfc81470bdbc8c14b3e1fbcf
+  SDWebImage: 0905f1b7760fc8ac4198cae0036600d67478751e
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 67dc3b8d3c5b56ac286551a6562579bc9aaa1361
+
+COCOAPODS: 1.11.3
